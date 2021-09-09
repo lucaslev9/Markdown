@@ -1,6 +1,8 @@
 # How to Scramble Eggs
 ## _Using a Home Recipe_
 
+![eggs](eggs.jpg)
+
 Scrambling eggs is a very common and easy way to prepare eggs, and it involves either stirring, beating, or whipping eggs together while heating them until they solidify. Oftentimes, other ingredients such as butter, salt, pepper, etc. are added for flavor. In this how-to, I will explain the scrambing process using my own recipe, which will reasonably serve two.
 
 ## What You'll Need:
