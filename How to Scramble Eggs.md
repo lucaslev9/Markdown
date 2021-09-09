@@ -24,6 +24,8 @@ I Like the start with the stove preparation, as it allows for the pan to heat up
 2. Put your pan on the burner.
 3. Drop the tablespoon of butter into the pan.
 
+![burner](burner.jpg)
+
 With the stovetop prepared and the butter melting, we can start on the eggs.
 
 4. Crack the eggs one by one on the edge of the mixing bowl and pour them in, being careful to keep any shell bits from falling in.
@@ -40,6 +42,8 @@ At this point, the butter in the pan should be melted. The butter will help keep
 2. Slowly pour the egg and milk mixture into the pan.
 3. Add the half cup of cheese into the pan.
 4. Stir the contents of the pan with the spatula.
+
+![scramble](scramble.jpg)
 
 Once the contents of the pan are stirred and mixed thoroughly, you will want to continue to stir the eggs and push them towards the center of the pan. The eggs will start to cook as soon as they go into the pan, so it is important to continue to stir and move them around in order to cook them evenly. The eggs should be down in about 3-5 minutes, or when they get firm and solidify. 
 
