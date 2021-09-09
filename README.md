@@ -24,7 +24,7 @@ I Like the start with the stove preparation, as it allows for the pan to heat up
 2. Put your pan on the burner.
 3. Drop the tablespoon of butter into the pan.
 
-![burner](burner.jpg)
+![burner](burn.jpg)
 
 With the stovetop prepared and the butter melting, we can start on the eggs.
 
